@@ -1,4 +1,4 @@
-test
+Test
 # Azure Infrastructure as Code - Terragrunt Project
 
 ## 📋 Overview
